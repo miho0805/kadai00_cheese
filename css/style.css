@@ -1,0 +1,182 @@
+/* pタグの設定 */
+
+p {
+  text-align: center;
+
+}
+ 
+/* Course文字 */
+.size {
+  font-size: 13px;
+  text-align: center;
+}
+
+.Course {
+  padding: 8% 8%;
+}
+
+.titr {
+  padding: 3%;
+}
+
+
+
+/* それぞれの文字 */
+
+h1 {
+  text-align: center;
+
+}
+
+h2 {
+  text-align: center;
+
+}
+
+h3 {
+  text-align: center;
+  font-size: 20px;
+}
+
+h4 {
+  text-align: center;
+  color: rgb(229, 214, 5);
+  font-size: 20px;
+  margin: 8% 15%;
+}
+
+
+/* ロゴマーク */
+
+.rogo {
+  width: 30%;
+
+}
+
+
+/* リンク */
+.parent {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 30px;
+}
+
+
+
+/* メイン画像 */
+.bd-img {
+  position: relative;
+  width: 100%;
+}
+
+img {
+  width: 100%;
+}
+
+/* 世界を変えるチーズを作ろう */
+h1 {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  font-size: 28px;
+  color: white;
+}
+
+/* チーズ職人養成学校「チーズアカデミーTOKYO」 */
+h2 {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  font-size: 15px;
+  color: white;
+}
+
+
+/* Course */
+
+.top {
+  
+}
+
+.Course1 img {
+  width: 48%;
+  float: left;
+}
+
+.Course2 img {
+  width: 48%;
+  float: right;
+  margin: 30px
+}
+
+.Course3 img {
+  width: 48%;
+  float: left;
+}
+
+
+
+
+
+/* news */
+
+.news {
+  display: flex;
+  margin: 30px 30px;
+}
+
+.box {
+  margin: 20px 20px;
+}
+
+.note {
+  font-size: 9px;
+}
+
+
+/* more */
+.more {
+  display: flex;
+  justify-content: space-around;
+  width: 300px;
+  background-color: rgb(255, 255, 90);
+  font-size: 30px;
+  margin: 0 auto;
+}
+
+
+
+
+/* アクセス */
+.google {
+  width: 100%;
+}
+
+
+/* Contact */
+.AccessContact {
+  padding: 200px 10px 30px 10px ;
+}
+
+
+.Con {
+  border: 2px solid rgb(71, 71, 66);
+  padding: 50px 50px;
+  margin: 50px 50px;
+}
+
+.sentaku {
+  text-align: left;
+}
+
+
+
+/* last */
+.last {
+  background-color: rgb(255, 255, 90);
+}
